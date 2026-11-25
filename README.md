@@ -1,22 +1,10 @@
-<!-- ======================================================= -->
-<!--  nagavardhan987 · GitHub Profile README                 -->
-<!-- ======================================================= -->
+<!-- ======================================================================= --> <!-- nagavardhan987 · GitHub Profile README --> <!-- Theme: OpsLens dark + lime · accent #C6F432 · surface #0D1117 --> <!-- ======================================================================= --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1c3a1c&height=210&section=header&text=Naga%20Vardhan&fontSize=62&fontColor=C6F432&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Industrial%20Software&descAlignY=58&descSize=16&descAlignX=50" alt="header"/> <a href="https://readme-typing-svg.vercel.app"> <img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C6F432&center=true&vCenter=true&width=640&height=45&lines=AI+%2F+ML+Engineer+in+the+making;Winner+%E2%80%94+Schneider+Electric+HMI+Hackathon+2026;Building+OpsLens+%C2%B7+evidence-based+industrial+AI;FastAPI+%C2%B7+React+%C2%B7+Applied+AI" alt="typing"/> </a> <br/>
 
-<div align="center">
+<a href="mailto:nn7326@srmist.edu.in"><img src="https://img.shields.io/badge/Email-C6F432?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" alt="email"/></a> <a href="#-connect"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C6F432" alt="linkedin"/></a> <img src="https://img.shields.io/badge/SRM%20Institute-Student-0D1117?style=for-the-badge&logo=googlescholar&logoColor=C6F432" alt="university"/> <img src="https://komarev.com/ghpvc/?username=nagavardhan987&style=for-the-badge&color=C6F432&label=PROFILE+VIEWS" alt="views"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=Naga%20Vardhan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Industrial%20Software&descAlignY=60&descSize=18" alt="header"/>
-
-<a href="mailto:nn7326@srmist.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-<img src="https://img.shields.io/badge/SRM%20Institute-Student-3a7bd5?style=for-the-badge&logo=googlescholar&logoColor=white" alt="university"/>
-<img src="https://komarev.com/ghpvc/?username=nagavardhan987&style=for-the-badge&color=00d2ff" alt="profile views"/>
-
-</div>
-
----
-
-### 🙋‍♂️ About Me
-
-```python
+</div> <!-- ---------------------------------------------------------------------- -->
+ 🙋‍♂️  About Me
+python
 class NagaVardhan:
     def __init__(self):
         self.role      = "AI / ML Engineer in the making"
@@ -27,97 +15,65 @@ class NagaVardhan:
 
     def say_hi(self):
         print("Thanks for stopping by — take a look at OpsLens below 👇")
-```
+<table> <tr> <td valign="top" width="50%">
 
-- 🎓  Studying at **SRM Institute of Science and Technology**
-- 🧠  I enjoy working at the intersection of **AI, data and real-world operations**
-- 🏆  Built **OpsLens**, an AI copilot for industrial HMIs — *winner* of the Schneider Electric HMI Hackathon 2026
-- 🌱  Currently going deeper on **ML, FastAPI backends and applied AI**
-- 💬  Ask me about **Python, Machine Learning, FastAPI and building AI copilots**
+🎓  Studying at SRM Institute of Science and Technology
+🧠  I work at the intersection of AI, data & real-world operations
+🏆  Built OpsLens — winner of the Schneider Electric HMI Hackathon 2026
 
----
+</td> <td valign="top" width="50%">
 
-### 🛠️ Tech Stack
+🌱  Going deeper on ML, FastAPI backends & applied AI
+💬  Ask me about Python, ML, FastAPI & AI copilots
+⚡  Mindset — evidence first, never invent facts
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-### 🏆 Featured Project
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-#### 🥇 [OpsLens — AI Copilot for Industrial HMI](https://github.com/nagavardhan987/OpsLens)
-
-**Winner, Schneider Electric HMI Hackathon 2026.**
-
-OpsLens doesn't just tell an operator *that* an alarm is active — it reconstructs **the story behind the alarm**: which readings moved first, what the SOP says, how close the plant is to the next escalation, and how to confirm the fix.
-
-Every number is calculated in Python; every procedure step is copied verbatim from the cited SOP. The AI only *explains* established facts — it never invents them.
-
-`FastAPI` · `React` · `SQLite` · `OPC UA` · `LLM-assisted` · *read-only & advisory*
-
-</td>
-<td width="45%" valign="top">
-
-<img src="https://github.com/nagavardhan987/OpsLens/raw/main/docs/screenshots/home_live_alarm.png" alt="OpsLens home" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
+</td> </tr> </table> <!-- ---------------------------------------------------------------------- -->
+ 🛠️  Tech Stack
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> </p> <p> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> </p> <p> <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </p> <!-- ---------------------------------------------------------------------- -->
+ ⬡  Featured Project
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nagavardhan987&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagavardhan987&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://img.shields.io/badge/01-FEATURED%20PROJECT-C6F432?style=flat-square&labelColor=0D1117"/>   <img src="https://img.shields.io/badge/🏆%20WINNER-Schneider%20Electric%20HMI%20Hackathon%202026-0D1117?style=flat-square&labelColor=C6F432"/>
 
-<br/>
+<h1>OpsLens</h1>
 
-<img src="https://streak-stats.demolab.com/?user=nagavardhan987&theme=tokyonight&hide_border=true" alt="streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nagavardhan987&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies"/>
+An AI copilot that tells plant operators the story behind every alarm.
 
 </div>
 
----
+OpsLens reconstructs what moved first, ranks the likely cause on recorded evidence, pulls the exact SOP steps word-for-word, and has a local LLM explain it — with every line checked against the record. It is read-only and advisory: it never writes to the plant. On a lift-station trip it surfaces the leading cause (P-101 trip) with an evidence-support score and the first SOP step to run.
 
-### 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:nn7326@srmist.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<!-- Add your socials below — swap in your real links -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<div align="center"> <br/> <img src="https://img.shields.io/badge/348-Automated%20Tests-C6F432?style=for-the-badge&labelColor=0D1117"/> &nbsp; <img src="https://img.shields.io/badge/8-Incident%20Scenarios-C6F432?style=for-the-badge&labelColor=0D1117"/> &nbsp; <img src="https://img.shields.io/badge/0-Writes%20to%20the%20Plant-C6F432?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=120&section=footer"/>
+FastAPI  ·  React  ·  Local LLM  ·  RAG  ·  OPC UA  ·  SQLite
 
-</div>
+<br/>
+
+Showcase
+
+</div> <!-- ---------------------------------------------------------------------- -->
+ 📂  More Projects
+Project	What it does	Built with
+Agentic AI · Sales Analysis	An agentic pipeline that explores sales data and answers questions in plain language	Python LLM
+RAG with Pinecone	Retrieval-augmented Q&A over your own documents, backed by a Pinecone vector store	TypeScript RAG
+GAN for Image Generation	A generative adversarial network that synthesizes new images from noise	PyTorch Jupyter
+Object Detection · YOLO	Real-time multi-object detection and localization with the YOLO family	YOLO Jupyter
+Breast Cancer Prediction	A classifier that flags malignant vs. benign tumours from diagnostic features	scikit-learn
+<!-- ---------------------------------------------------------------------- -->
+ 📊  GitHub Stats
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=nagavardhan987&show_icons=true&hide_border=true&title_color=C6F432&icon_color=C6F432&text_color=c9d1d9&bg_color=0D1117"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagavardhan987&layout=compact&hide_border=true&langs_count=8&title_color=C6F432&text_color=c9d1d9&bg_color=0D1117"/> <br/> <img src="https://streak-stats.demolab.com?user=nagavardhan987&hide_border=true&background=0D1117&border=30363D&stroke=C6F432&ring=C6F432&fire=C6F432&currStreakNum=FFFFFF&currStreakLabel=C6F432&sideNums=FFFFFF&sideLabels=c9d1d9&dates=8B949E" alt="streak"/> <br/> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nagavardhan987&bg_color=0D1117&color=C6F432&line=C6F432&point=FFFFFF&area=true&area_color=C6F432&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph"/> <br/> <img src="https://github-profile-trophy.vercel.app/?username=nagavardhan987&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/> </div> <!-- ---------------------------------------------------------------------- -->
+ 🤝  Connect
+
+<a name="-connect"></a>
+
+<div align="center">
+
+<a href="mailto:nn7326@srmist.edu.in"><img src="https://img.shields.io/badge/Email-C6F432?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"/></a> <a href="https://www.linkedin.com/in/REPLACE-ME"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C6F432"/></a> <a href="https://github.com/nagavardhan987"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C6F432"/></a>
+
+<br/><br/>
+
+<i>“Build things that are honest, evidence-based and genuinely useful.”</i>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c3a1c,100:0d1117&height=120&section=footer"/> </div>
