@@ -1,11 +1,11 @@
-<!-- ======================================================================= --> <!-- nagavardhan987 · GitHub Profile README --> <!-- Theme: OpsLens dark + lime · accent #C6F432 · surface #0D1117 --> <!-- ======================================================================= --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1c3a1c&height=210&section=header&text=Naga%20Vardhan&fontSize=62&fontColor=C6F432&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Industrial%20Software&descAlignY=58&descSize=16&descAlignX=50" alt="header"/> <a href="https://readme-typing-svg.vercel.app"> <img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C6F432&center=true&vCenter=true&width=640&height=45&lines=AI+%2F+ML+Engineer+in+the+making;Winner+%E2%80%94+Schneider+Electric+HMI+Hackathon+2026;Building+OpsLens+%C2%B7+evidence-based+industrial+AI;FastAPI+%C2%B7+React+%C2%B7+Applied+AI" alt="typing"/> </a> <br/>
+<!-- ======================================================================= --> <!-- nagavardhan987 · GitHub Profile README --> <!-- Theme: OpsLens dark + lime · accent #C6F432 · surface #0D1117 --> <!-- ======================================================================= --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1c3a1c&height=210&section=header&text=NagaVardhan%20Neerumalla&fontSize=46&fontColor=C6F432&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Industrial%20Software&descAlignY=58&descSize=16&descAlignX=50" alt="header"/> <a href="https://readme-typing-svg.vercel.app"> <img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C6F432&center=true&vCenter=true&width=640&height=45&lines=AI+%2F+ML+Engineer+in+the+making;Winner+%E2%80%94+Schneider+Electric+HMI+Hackathon+2026;Building+OpsLens+%C2%B7+evidence-based+industrial+AI;FastAPI+%C2%B7+React+%C2%B7+Applied+AI" alt="typing"/> </a> <br/>
 
 <a href="mailto:nn7326@srmist.edu.in"><img src="https://img.shields.io/badge/Email-C6F432?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" alt="email"/></a> <a href="#-connect"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C6F432" alt="linkedin"/></a> <img src="https://img.shields.io/badge/SRM%20Institute-Student-0D1117?style=for-the-badge&logo=googlescholar&logoColor=C6F432" alt="university"/> <img src="https://komarev.com/ghpvc/?username=nagavardhan987&style=for-the-badge&color=C6F432&label=PROFILE+VIEWS" alt="views"/>
 
 </div> <!-- ---------------------------------------------------------------------- -->
  🙋‍♂️  About Me
 python
-class NagaVardhan:
+class Nagavardhan Neerumalla:
     def __init__(self):
         self.role      = "AI / ML Engineer in the making"
         self.education = "SRM Institute of Science and Technology"
@@ -43,7 +43,13 @@ An AI copilot that tells plant operators the story behind every alarm.
 
 OpsLens reconstructs what moved first, ranks the likely cause on recorded evidence, pulls the exact SOP steps word-for-word, and has a local LLM explain it — with every line checked against the record. It is read-only and advisory: it never writes to the plant. On a lift-station trip it surfaces the leading cause (P-101 trip) with an evidence-support score and the first SOP step to run.
 
-<div align="center"> <br/> <img src="https://img.shields.io/badge/348-Automated%20Tests-C6F432?style=for-the-badge&labelColor=0D1117"/> &nbsp; <img src="https://img.shields.io/badge/8-Incident%20Scenarios-C6F432?style=for-the-badge&labelColor=0D1117"/> &nbsp; <img src="https://img.shields.io/badge/0-Writes%20to%20the%20Plant-C6F432?style=for-the-badge&labelColor=0D1117"/>
+<div align="center"> <br/> <img src="https://raw.githubusercontent.com/nagavardhan987/nagavardhan987/main/opslens-dashboard.png" alt="OpsLens — live alarm, AI assessment and next best action" width="92%"/>
+
+<sub>🟢  Live alarm · AI assessment · next best action · leading cause P-101 trip · evidence support 98%</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/348-Automated%20Tests-C6F432?style=for-the-badge&labelColor=0D1117"/> &nbsp; <img src="https://img.shields.io/badge/8-Incident%20Scenarios-C6F432?style=for-the-badge&labelColor=0D1117"/> &nbsp; <img src="https://img.shields.io/badge/0-Writes%20to%20the%20Plant-C6F432?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
@@ -63,14 +69,14 @@ Object Detection · YOLO	Real-time multi-object detection and localization with 
 Breast Cancer Prediction	A classifier that flags malignant vs. benign tumours from diagnostic features	scikit-learn
 <!-- ---------------------------------------------------------------------- -->
  📊  GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=nagavardhan987&show_icons=true&hide_border=true&title_color=C6F432&icon_color=C6F432&text_color=c9d1d9&bg_color=0D1117"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagavardhan987&layout=compact&hide_border=true&langs_count=8&title_color=C6F432&text_color=c9d1d9&bg_color=0D1117"/> <br/> <img src="https://streak-stats.demolab.com?user=nagavardhan987&hide_border=true&background=0D1117&border=30363D&stroke=C6F432&ring=C6F432&fire=C6F432&currStreakNum=FFFFFF&currStreakLabel=C6F432&sideNums=FFFFFF&sideLabels=c9d1d9&dates=8B949E" alt="streak"/> <br/> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nagavardhan987&bg_color=0D1117&color=C6F432&line=C6F432&point=FFFFFF&area=true&area_color=C6F432&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph"/> <br/> <img src="https://github-profile-trophy.vercel.app/?username=nagavardhan987&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/> </div> <!-- ---------------------------------------------------------------------- -->
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=nagavardhan987&show_icons=true&hide_border=true&title_color=C6F432&icon_color=C6F432&text_color=c9d1d9&bg_color=0D1117"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagavardhan987&layout=compact&hide_border=true&langs_count=8&title_color=C6F432&text_color=c9d1d9&bg_color=0D1117"/> <br/> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagavardhan987&theme=github_dark" alt="repos per language"/> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagavardhan987&theme=github_dark" alt="most committed language"/> <br/> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nagavardhan987&bg_color=0D1117&color=C6F432&line=C6F432&point=FFFFFF&area=true&area_color=C6F432&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph"/> <br/> <img src="https://github-profile-trophy.vercel.app/?username=nagavardhan987&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/> </div> <!-- ---------------------------------------------------------------------- -->
  🤝  Connect
 
 <a name="-connect"></a>
 
 <div align="center">
 
-<a href="mailto:nn7326@srmist.edu.in"><img src="https://img.shields.io/badge/Email-C6F432?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"/></a> <a href="https://www.linkedin.com/in/REPLACE-ME"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C6F432"/></a> <a href="https://github.com/nagavardhan987"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C6F432"/></a>
+<a href="mailto:nn7326@srmist.edu.in"><img src="https://img.shields.io/badge/Email-C6F432?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"/></a> <a href="https://www.linkedin.com/in/nagavardhan-neerumalla-02a82b287/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C6F432"/></a> <a href="https://github.com/nagavardhan987"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C6F432"/></a>
 
 <br/><br/>
 
