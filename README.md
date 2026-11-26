@@ -5,7 +5,7 @@
 </div> <!-- ---------------------------------------------------------------------- -->
  🙋‍♂️  About Me
 python
-class NagaVardhanNeerumalla:
+class NagavardhanNeerumalla:
     def __init__(self):
         self.role      = "AI / ML Engineer in the making"
         self.education = "SRM Institute of Science and Technology"
@@ -69,7 +69,7 @@ Object Detection · YOLO	Real-time multi-object detection and localization with 
 Breast Cancer Prediction	A classifier that flags malignant vs. benign tumours from diagnostic features	scikit-learn
 <!-- ---------------------------------------------------------------------- -->
  📊  GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagavardhan987&layout=compact&hide_border=true&langs_count=8&title_color=C6F432&text_color=c9d1d9&bg_color=0D1117"/> <br/> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagavardhan987&theme=github_dark" alt="repos per language"/> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagavardhan987&theme=github_dark" alt="most committed language"/> <br/> <img width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nagavardhan987&theme=github_dark&utcOffset=5.5" alt="productive time"/> <br/> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nagavardhan987&bg_color=0D1117&color=C6F432&line=C6F432&point=FFFFFF&area=true&area_color=C6F432&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph"/> <br/> <img src="https://github-profile-trophy.vercel.app/?username=nagavardhan987&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/> </div> <!-- ---------------------------------------------------------------------- -->
+<div align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagavardhan987&theme=github_dark" alt="repos per language"/> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagavardhan987&theme=github_dark" alt="most committed language"/> <br/> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nagavardhan987&bg_color=0D1117&color=C6F432&line=C6F432&point=FFFFFF&area=true&area_color=C6F432&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph"/> </div> <!-- ---------------------------------------------------------------------- -->
  🤝  Connect
 
 <a name="-connect"></a>
