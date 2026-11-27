@@ -5,7 +5,7 @@
 </div> <!-- ---------------------------------------------------------------------- -->
  🙋‍♂️  About Me
 python
-class NagavardhanNeerumalla:
+class NagaVardhanNeerumalla:
     def __init__(self):
         self.role      = "AI / ML Engineer in the making"
         self.education = "SRM Institute of Science and Technology"
