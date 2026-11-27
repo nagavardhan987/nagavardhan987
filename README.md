@@ -69,7 +69,7 @@ Object Detection · YOLO	Real-time multi-object detection and localization with 
 Breast Cancer Prediction	A classifier that flags malignant vs. benign tumours from diagnostic features	scikit-learn
 <!-- ---------------------------------------------------------------------- -->
  📊  GitHub Stats
-<div align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagavardhan987&theme=github_dark" alt="repos per language"/> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagavardhan987&theme=github_dark" alt="most committed language"/> <br/> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nagavardhan987&bg_color=0D1117&color=C6F432&line=C6F432&point=FFFFFF&area=true&area_color=C6F432&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph"/> </div> <!-- ---------------------------------------------------------------------- -->
+<div align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagavardhan987&theme=github_dark" alt="repos per language"/> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagavardhan987&theme=github_dark" alt="most committed language"/> <br/> <img width="98%" src="https://raw.githubusercontent.com/nagavardhan987/nagavardhan987/output/github-snake-dark.svg" alt="contribution snake"/> </div> <!-- ---------------------------------------------------------------------- -->
  🤝  Connect
 
 <a name="-connect"></a>
